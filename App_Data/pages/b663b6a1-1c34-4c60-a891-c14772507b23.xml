@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<page>
+  <title>Read about us  page</title>
+  <description>The description is used as meta description</description>
+  <content>&lt;p&gt;FWProblems is an online web blog created on September 28, 2014 as part of the 2014 Hackathon.&lt;/p&gt;
+&lt;p&gt;Our posts aim to address the problems prevalent in first-world countries.&lt;br /&gt;Although these problem are trivial compared to starvation, war, and poverty,&lt;br /&gt;all problems deserve an answer.&lt;br /&gt;&lt;br /&gt;FWProblem is the response; with our nonsensical, and sometimes scientific posts - you'll find the answers you need.&lt;br /&gt;We provide the solutions, with a side of entertainment.&lt;/p&gt;</content>
+  <keywords>Is, added, to, meta, keywords</keywords>
+  <slug>Example-page</slug>
+  <parent>00000000-0000-0000-0000-000000000000</parent>
+  <isfrontpage>False</isfrontpage>
+  <showinlist>True</showinlist>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <datecreated>2007-07-14 08:06:59</datecreated>
+  <datemodified>2013-09-28 09:15:43</datemodified>
+</page>

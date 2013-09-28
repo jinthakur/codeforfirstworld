@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>anoop</author>
+  <title>15 Solutions for First World Problems</title>
+  <description />
+  <content>&lt;pre&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;"&gt;&lt;img src="http://www.gloriousmind.com/wp-content/uploads/2013/05/0b3787018b2c031555e3f30f36b6c552.jpg" alt="" /&gt;15&lt;/span&gt;&lt;/pre&gt;</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2013-09-28 09:08:00</pubDate>
+  <lastModified>2013-09-28 09:51:21</lastModified>
+  <raters>3</raters>
+  <rating>4</rating>
+  <slug>15-Solutions-for-First-World-Problems</slug>
+  <tags>
+    <tag>NewProblem</tag>
+    <tag>IHaveaProblem</tag>
+  </tags>
+  <comments>
+    <comment id="5763817c-93c0-404f-b70d-8deb4b1816ee" parentid="00000000-0000-0000-0000-000000000000" approved="True" spam="False" deleted="False">
+      <date>2013-09-28 09:12:40</date>
+      <author>anoop</author>
+      <email>anoop.br@gmail.com</email>
+      <country />
+      <ip>208.185.19.18</ip>
+      <moderatedby>Rule:authenticated</moderatedby>
+      <avatar />
+      <content>comment 1</content>
+    </comment>
+    <comment id="bb1ab313-c951-4658-a312-a6c629168695" parentid="00000000-0000-0000-0000-000000000000" approved="True" spam="False" deleted="False">
+      <date>2013-09-28 09:46:24</date>
+      <author>guest01</author>
+      <email>guest01@gm.co</email>
+      <country />
+      <ip>208.185.19.18</ip>
+      <moderatedby>Rule:white list</moderatedby>
+      <avatar />
+      <content>comment 2</content>
+    </comment>
+  </comments>
+  <categories>
+    <category>c223353c-1aef-4a46-afd1-cb61ab1a792d</category>
+  </categories>
+  <notifications />
+</post>

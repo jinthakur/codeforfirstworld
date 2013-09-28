@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Admin</author>
+  <title>Introduction</title>
+  <description>First World Problem</description>
+  <content>&lt;p&gt;Hello to all you new users out there!&lt;br /&gt;&lt;br /&gt;FWProblems is a site inspired by these "so-called" first world &amp;nbsp;problems that has plagued developed countries for so long!&lt;/p&gt;
+&lt;p&gt;So what are first world problems? See the video for more info.&lt;/p&gt;
+&lt;p&gt;[video src="FIRST_WORLD_PROBLEMS_-_The_Musical.mp4"]&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div class="yt-alert-message"&gt;As you can see, first world problems are the trivial and ungodly problems we Americans face on a near daily basis.&lt;/div&gt;
+&lt;div class="yt-alert-message"&gt;They may be trivial, but every problem deserves a solution.&lt;/div&gt;</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2012-10-15 10:00:00</pubDate>
+  <lastModified>2013-09-28 15:18:41</lastModified>
+  <raters>7</raters>
+  <rating>4.171428</rating>
+  <slug>First-World-Problem</slug>
+  <tags>
+    <tag>blog</tag>
+    <tag>welcome</tag>
+  </tags>
+  <comments>
+    <comment id="82c3783e-5ea4-4a6e-b5b2-55d53da0a6c6" parentid="00000000-0000-0000-0000-000000000000" approved="True" spam="False" deleted="True">
+      <date>2012-01-03 17:58:00</date>
+      <author>Visitor 1</author>
+      <email>post@example.com</email>
+      <country>be</country>
+      <ip>127.0.0.1</ip>
+      <content>comment 1</content>
+    </comment>
+    <comment id="20574909-b777-4246-9b15-d70a3a795fcc" parentid="00000000-0000-0000-0000-000000000000" approved="True" spam="False" deleted="True">
+      <date>2012-01-15 17:01:59</date>
+      <author>Visitor 2</author>
+      <email>post@example.com</email>
+      <country />
+      <ip>127.0.0.1</ip>
+      <content>comment 2</content>
+    </comment>
+    <comment id="72484d70-ac56-4753-b4c1-7d34ee11e7d6" parentid="82c3783e-5ea4-4a6e-b5b2-55d53da0a6c6" approved="True" spam="False" deleted="True">
+      <date>2012-01-15 17:02:13</date>
+      <author>Admin</author>
+      <email>post@example.com</email>
+      <country />
+      <ip>127.0.0.1</ip>
+      <content>comment 3</content>
+    </comment>
+    <comment id="dbf5f4d6-fad5-44ec-b01c-dcc5fc541f94" parentid="00000000-0000-0000-0000-000000000000" approved="True" spam="False" deleted="False">
+      <date>2013-09-28 09:11:53</date>
+      <author>anoop</author>
+      <email>anoop.br@gmail.com</email>
+      <country />
+      <ip>208.185.19.18</ip>
+      <moderatedby>Rule:authenticated</moderatedby>
+      <avatar />
+      <content>comment 1</content>
+    </comment>
+    <comment id="f94fd834-6266-4f8f-a9cb-9d6a9587f3b5" parentid="00000000-0000-0000-0000-000000000000" approved="True" spam="False" deleted="False">
+      <date>2013-09-28 09:43:45</date>
+      <author>guest01</author>
+      <email>guest01@gm.co</email>
+      <country />
+      <ip>208.185.19.18</ip>
+      <moderatedby>Rule:white list</moderatedby>
+      <avatar />
+      <content>[i][u]Comment2[/u][/i]</content>
+    </comment>
+    <comment id="28c6ef7c-2c6f-4aad-a576-1650579b04b7" parentid="dbf5f4d6-fad5-44ec-b01c-dcc5fc541f94" approved="True" spam="False" deleted="False">
+      <date>2013-09-28 09:44:37</date>
+      <author>guest01</author>
+      <email>guest01@gm.co</email>
+      <country />
+      <ip>208.185.19.18</ip>
+      <moderatedby>Rule:white list</moderatedby>
+      <avatar />
+      <content>Comment 1 reply</content>
+    </comment>
+    <comment id="104bc452-997a-477d-bfb5-326d927d0374" parentid="00000000-0000-0000-0000-000000000000" approved="True" spam="False" deleted="False">
+      <date>2013-09-28 09:48:44</date>
+      <author>guest02</author>
+      <email>guest02@gm.co</email>
+      <country />
+      <ip>208.185.19.18</ip>
+      <moderatedby>Rule:authenticated</moderatedby>
+      <avatar />
+      <content>Cool</content>
+    </comment>
+  </comments>
+  <categories>
+    <category>f9ccb3e9-69a3-4474-a956-0a4a1ecda0c0</category>
+  </categories>
+  <notifications />
+</post>

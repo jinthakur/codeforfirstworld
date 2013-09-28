@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<categories>
+    <category id="c223353c-1aef-4a46-afd1-cb61ab1a792d" description="" parent="">Blog</category>
+    <category id="19770e74-9ec9-4cde-b2ab-e5051aaaf348" description="Posts about my adventures with BlogEngine.NET" parent="">BlogEngine.NET</category>
+    <category id="b1fdc1e5-bd63-4bb8-818c-4b845e8f48af" description="" parent="">EverDayProblem</category>
+    <category id="f9ccb3e9-69a3-4474-a956-0a4a1ecda0c0" description="" parent="">FirstWorldProblems</category>
+</categories>
